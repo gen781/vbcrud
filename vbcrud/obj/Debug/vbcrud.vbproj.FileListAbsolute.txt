@@ -1,0 +1,20 @@
+F:\Software\vbcrud\vbcrud\bin\Debug\vbcrud.exe.config
+F:\Software\vbcrud\vbcrud\bin\Debug\vbcrud.exe
+F:\Software\vbcrud\vbcrud\bin\Debug\vbcrud.pdb
+F:\Software\vbcrud\vbcrud\bin\Debug\vbcrud.xml
+F:\Software\vbcrud\vbcrud\obj\Debug\vbcrud.Resources.resources
+F:\Software\vbcrud\vbcrud\obj\Debug\vbcrud.vbproj.GenerateResource.Cache
+F:\Software\vbcrud\vbcrud\obj\Debug\vbcrud.exe
+F:\Software\vbcrud\vbcrud\obj\Debug\vbcrud.xml
+F:\Software\vbcrud\vbcrud\obj\Debug\vbcrud.pdb
+F:\Software\vbcrud\vbcrud\obj\Debug\vbcrud.Form1.resources
+D:\VB Projects\vbcrud\vbcrud\bin\Debug\vbcrud.exe.config
+D:\VB Projects\vbcrud\vbcrud\obj\Debug\vbcrud.exe
+D:\VB Projects\vbcrud\vbcrud\obj\Debug\vbcrud.xml
+D:\VB Projects\vbcrud\vbcrud\obj\Debug\vbcrud.pdb
+D:\VB Projects\vbcrud\vbcrud\bin\Debug\vbcrud.exe
+D:\VB Projects\vbcrud\vbcrud\bin\Debug\vbcrud.pdb
+D:\VB Projects\vbcrud\vbcrud\bin\Debug\vbcrud.xml
+D:\VB Projects\vbcrud\vbcrud\obj\Debug\vbcrud.Form1.resources
+D:\VB Projects\vbcrud\vbcrud\obj\Debug\vbcrud.Resources.resources
+D:\VB Projects\vbcrud\vbcrud\obj\Debug\vbcrud.vbproj.GenerateResource.Cache
